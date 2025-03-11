@@ -1,4 +1,4 @@
-# qmk-oled-animation-collection
+# qmk-oled-collection
 A collection of easy to copy animations for your qmk oled
 
 > [!NOTE]
